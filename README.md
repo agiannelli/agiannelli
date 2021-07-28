@@ -1,14 +1,14 @@
 ### Hi there! 👋 My name is Amanda and I am a girl who codes 👩‍💻
 
-I have been a strict back-end, C#.NET developer for over 10 years. 🤓
+I was a strict back-end, C#.NET developer for over 10 years. 🤓  After the birth of my first born 👶 in September 2020, I decided it was time to branch out, learn new things, and not let my impostor syndrome hold me back anymore! 💃
 
-After the birth of my first born 👶 in September 2020, I decided it was time to branch out, learn new things, and not let my impostor syndrome hold me back anymore! 💃
+As of June 2021, I am now a Node.js developer (wut? 🤯) at @auth0.
 
 ### 🔭 I’m currently working on ...
 
-- contributing to @redwoodjs 🚀
-- building my own website / blog
-- building an app for a friend to make her job easier 
+- building my own website / blog - from scratch
+- contributing to @redwoodjs 🚀 
+- building an app for a friend to make her job easier (when I have time!)
 
 ### 🌱 I’m currently learning
 
